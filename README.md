@@ -2,7 +2,7 @@
 
 
 ## Descrição
-O RentaCar é um banco de dados relacional projetado para gerenciar operações de locação de veículos. O sistema abrange cadastro de clientes, gerenciamento de veículos, registro de aluguéis e pagamentos, além de consultas SQL para relatórios e análises. O projeto aplica as melhores práticas de modelagem de dados e normalização até a 3ª Forma Normal (3FN). Foi feito como projeto final da disciplina Banco de Dados (CC0025).
+O RentaCar é um banco de dados relacional projetado para gerenciar operações de locação de veículos. O sistema abrange cadastro de clientes, gerenciamento de veículos, registro de aluguéis e pagamentos, além de consultas SQL para relatórios e análises. O projeto aplica as melhores práticas de modelagem de dados e normalização até a 3ª Forma Normal (3FN). 
 
 --- 
 
